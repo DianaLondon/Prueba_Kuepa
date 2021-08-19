@@ -97,10 +97,11 @@
 }
 
 .conexiones{
+  margin-bottom: 105px;
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
   width: 60%;
-  height: 450px;
+  height: 320px;
   margin-left: 50px;
   background-color: white;
   border-radius: 25px;
