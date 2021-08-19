@@ -99,7 +99,7 @@
 .conexiones{
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-  width: 50%;
+  width: 60%;
   height: 450px;
   margin-left: 50px;
   background-color: white;
@@ -122,7 +122,6 @@ h4{
 }
 
 .box_one{
-  margin-bottom: 25px;
   border-left: 5px solid #B68DF6;
   background-color: #ECF3FD;
   display: grid;
@@ -199,7 +198,7 @@ h4{
 
 .porcentaje{
   margin-top: 10px;
-  margin-left: 50px;
+  margin-left: 25px;
 }
 
 .porcent{
