@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/Prueba_Kuepa/static/css/main.a617e044.chunk.css",
-    "main.js": "/Prueba_Kuepa/static/js/main.46be5736.chunk.js",
-    "main.js.map": "/Prueba_Kuepa/static/js/main.46be5736.chunk.js.map",
-    "runtime-main.js": "/Prueba_Kuepa/static/js/runtime-main.f5c8123c.js",
-    "runtime-main.js.map": "/Prueba_Kuepa/static/js/runtime-main.f5c8123c.js.map",
-    "static/js/2.d3fe6ec3.chunk.js": "/Prueba_Kuepa/static/js/2.d3fe6ec3.chunk.js",
-    "static/js/2.d3fe6ec3.chunk.js.map": "/Prueba_Kuepa/static/js/2.d3fe6ec3.chunk.js.map",
-    "static/js/3.918ce3e3.chunk.js": "/Prueba_Kuepa/static/js/3.918ce3e3.chunk.js",
-    "static/js/3.918ce3e3.chunk.js.map": "/Prueba_Kuepa/static/js/3.918ce3e3.chunk.js.map",
+    "main.css": "/Prueba_Kuepa/static/css/main.0b3f1221.chunk.css",
+    "main.js": "/Prueba_Kuepa/static/js/main.0762b641.chunk.js",
+    "main.js.map": "/Prueba_Kuepa/static/js/main.0762b641.chunk.js.map",
+    "runtime-main.js": "/Prueba_Kuepa/static/js/runtime-main.21c18072.js",
+    "runtime-main.js.map": "/Prueba_Kuepa/static/js/runtime-main.21c18072.js.map",
+    "static/js/2.ff7376bb.chunk.js": "/Prueba_Kuepa/static/js/2.ff7376bb.chunk.js",
+    "static/js/2.ff7376bb.chunk.js.map": "/Prueba_Kuepa/static/js/2.ff7376bb.chunk.js.map",
+    "static/js/3.4397ab1c.chunk.js": "/Prueba_Kuepa/static/js/3.4397ab1c.chunk.js",
+    "static/js/3.4397ab1c.chunk.js.map": "/Prueba_Kuepa/static/js/3.4397ab1c.chunk.js.map",
     "index.html": "/Prueba_Kuepa/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/Prueba_Kuepa/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.d3fe6ec3.chunk.js.LICENSE.txt": "/Prueba_Kuepa/static/js/2.d3fe6ec3.chunk.js.LICENSE.txt"
+    "static/css/main.0b3f1221.chunk.css.map": "/Prueba_Kuepa/static/css/main.0b3f1221.chunk.css.map",
+    "static/js/2.ff7376bb.chunk.js.LICENSE.txt": "/Prueba_Kuepa/static/js/2.ff7376bb.chunk.js.LICENSE.txt",
+    "static/media/Kuepa Logo.a35c03a3.png": "/Prueba_Kuepa/static/media/Kuepa Logo.a35c03a3.png",
+    "static/media/persona.2fa88d01.jpg": "/Prueba_Kuepa/static/media/persona.2fa88d01.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5c8123c.js",
-    "static/js/2.d3fe6ec3.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.46be5736.chunk.js"
+    "static/js/runtime-main.21c18072.js",
+    "static/js/2.ff7376bb.chunk.js",
+    "static/css/main.0b3f1221.chunk.css",
+    "static/js/main.0762b641.chunk.js"
   ]
 }
